@@ -1,0 +1,4266 @@
+background=hallway.png
+fadeIn
+music=06 Memory of the moment.wav
+
+
+
+I walked down the school hallway towards my first period class.
+
+
+
+
+
+There was no sound in the hallway, probably because the class already started.
+
+
+
+
+
+I am always late because I am a heavy sleeper; you can't wake me up even if you drive a car through my 
+bedroom, that's what my mother says.
+
+
+
+
+The only person who could ever wake me up in the morning was my father.
+
+
+
+
+
+Every morning, he would toss me out of my bed and kick the crap out of me until I open my eyes.
+
+
+
+
+
+My mother and I called that parental abuse, but he would always say
+
+
+
+
+
+"Man Up Quentyn. If you got time to laze around in your bed, then do something meaningful that will change your 
+life"
+
+
+
+
+Seven years ago, my father died in a car accident.
+
+
+
+
+
+As much as he used to beat me, he was still a loving father, and his death shocked both me and my mother.
+
+
+
+
+
+I fell into depression after that.
+
+
+
+
+
+My grade in school fell, I slowly lost contact with my friends, and I became a robot that continued its
+meaningless daily routine endlessly.
+
+
+
+
+But one day after school, I saw a kid younger than me.
+
+
+
+
+
+He was being bullied by a bunch of delinquent brats.
+
+
+
+
+
+Seeing how defenseless the kid was, I intervened and saved the little kid.
+
+
+
+
+
+Despite all the painful-looking bruises he got, he showed me the biggest smile that a person could ever muster
+after getting so beat up, and he said
+
+
+
+
+Little Kid:
+Thank you mister.
+
+
+
+
+Little Kid:
+If it wasn't for you, they would have taken this away.
+
+
+
+
+I looked at what the little kid was holding in his hand.
+
+
+
+
+
+It was a pendant with the picture of a women.
+
+
+
+
+
+He probably lost his mother, just like how I lost my father.
+
+
+
+
+
+Little Kid:
+Do you have someone important to you mister?
+
+
+
+
+I was caught completely off guard by the question since it was the first time someone that, and of all the 
+people who could have asked me, it was a little kid.
+
+
+
+
+Little Kid:
+My mother always said that even if I am alone, there are always someone who cares about me, just like how you
+saved me today.
+
+
+
+Living up until now, it still seems amazing to me how something a little kid says can affect me so much.
+
+
+
+
+
+Sometimes, I just feel that he came from the future just to save me from my depression.
+
+
+
+
+
+Why was I depressed for such a long time?
+
+
+
+
+
+I still had my mother, who cared and loved me just as much as my father.
+
+
+
+
+
+Just because my father was gone, it did't mean that I lost all meaning of my life.
+
+
+
+
+
+As I walked towards my class,I looked out in the window.
+background=morning.png
+
+
+
+
+The sky was blue, and the sun casted its magnificent radiance on earth.
+
+
+
+
+
+Although I was not someone who can appreciate the beauty of nature, I was mesmerized by the golden, brilliant 
+scenery.
+
+
+
+
+Is something amazing going to happen again today .............. ?
+
+
+
+
+
+fadeOut
+music=nothing
+
+
+
+
+background=classroom.png
+fadeIn
+
+
+
+
+effect=dooropen.wav
+
+
+
+
+
+quentyn=quentynNormal.png
+slidequentyn800
+music=05 Talk as usual.wav
+
+
+
+Quentyn:
+YO!
+
+
+
+
+Teacher:
+You are late again Lothston! Just how many times do I have to tell you to come to school on time!?
+
+
+
+
+Teacher:
+Sit down quickly. We are starting a lesson.
+
+
+
+
+Quentyn:
+Roger that.
+
+
+
+
+slidequentyn-800
+
+
+
+
+
+Teacher:
+Alright, as I mentioned, we are doing titration today.
+ 
+
+
+
+Teacher:
+You can work with one other person and both of you must complete the lab within this class. 
+
+
+
+
+Teacher:
+You may gather your materials and start working now.
+
+
+
+
+The tranquility of the classroom was suddenly broken by the excited chatters. Each student walked around the 
+room to find potential lab partners. Gradually, I was the only one left along with one other student who was 
+sitting in a corner of the classroom.
+
+
+
+slidequentyn550
+
+
+
+
+
+Quentyn:
+Yo, wanna work together on thi-
+
+
+
+
+Quentyn:
+Wait, what .......... what the heck?
+quentyn=quentynSurprised.png
+
+
+
+As the unfamiliar face turned towards me, I was completely set aback by the appearance of the girl who was in 
+front me. 
+music=nothing
+
+
+
+She wore a mysterious pendant. Her silky cloth and her long hair that was tied by a ribbon gave off an aura 
+of elegance and innocence.
+
+
+
+
+But what contrasted most with her appearance were her eyes. They were as vast and deep as the ocean; you 
+could lose yourself if you look into that space.
+
+
+
+
+I was totally lost in my own fantasy until my teacher intervened.
+
+
+
+
+
+Teacher:
+Lothston, I forgot to mention this. She transferred to the school today, so she doesn't know much.....
+music=05 Talk as usual.wav
+
+
+
+Teacher:
+So work with her on the lab and help her with anything she doesn't understand.
+
+
+
+
+Quentyn:
+Uhh .... I guess that's alright.
+
+
+
+
+Teacher:
+You're a great help Lothston. 
+
+
+
+
+Teacher:
+Anyways, enough with the chatter, you two may start your lab now.
+
+
+
+
+slidelatia-600
+
+
+
+
+
+Quentyn:
+Well, we should get started. 
+quentyn=quentynNormal.png
+
+
+
+Quentyn:
+By the way, my name is Quentyn, Quentyn Lothston. What is your name?
+
+
+
+
+Transfer Girl:
+........................
+
+
+
+
+Transfer Girl:
+........................
+
+
+
+
+Quentyn:
+Um, my name is Quentyn Lothston, do you mind telling me yours?
+
+
+
+
+Transfer Girl:
+........................
+
+
+
+
+Quentyn:
+Well, its ok if you don't want to answer, it is your first day in this new school after all. 
+
+
+
+
+Quentyn:
+let's do our best in this lab.
+
+
+
+
+Quentyn:
+For starters, could you get the chemical solution from the front counter?
+
+
+
+
+Transfer Girl:
+Go get it yourself.
+
+
+
+
+Quentyn:
+Um....this is a really easy job; you just have to go to the front counter and pour 100mL of those labeled 
+solutions-
+
+
+
+Transfer Girl:
+I said, go get it yourself.
+
+
+
+
+Quentyn:
+Fine fine, I will get it.
+
+
+
+
+Quentyn:
+(Geez, what is up with this girl? First she doesn't give me her name and then she bosses me around like I'm 
+her slave?)
+quentyn=quentynFrustration.png
+
+
+I reluctantly went to the front counter and obtained the solutions required for this experiment. 
+
+
+
+
+
+By the time I came back to my lab station, the transfer girl had her arm crossed and wore an unpleasant 
+expression on her face.
+
+
+
+
+Transfer Girl:
+You were slow like a pig.
+latia=latiaIrritation.png
+
+
+
+Quentyn:
+Well, at least I got our materials. Lets get started!
+quentyn=quentynNormal.png
+
+
+
+I eagerly sucked in some of the clear liquid into the pipette. 
+
+
+
+
+
+Just as I was about to eject the liquid into the solution that was given to us, the transfer girl suddenly 
+seized my arm as if she was stopping me from committing a crime.
+
+
+
+
+Transfer Girl:
+What are you doing!? Are you trying to kill us all!?
+latia=latiaAnger.png
+
+
+
+Transfer Girl:
+Don't you see that your solution is too concentrated?
+ 
+
+
+
+Transfer Girl:
+Go back to the counter and make a new solution, you moron.
+
+
+
+
+Quentyn:
+Hey, hold on a second!
+quentyn=quentynAnger2.png
+
+
+
+Quentyn:
+You aren't even doing anything and you are telling me that I am doing this incorrectly?
+
+
+
+
+Quentyn:
+Just who do you think you are!?
+
+
+
+
+Transfer Girl:
+You think you are some kind of genius, Einstein?
+
+
+
+
+Transfer Girl:
+You were mixing hydrochloric acid with your beaker like you were some kind of stupid pyromaniac.
+
+
+
+
+Transfer Girl:
+If I hadn't stopped you, you would have demolished this classroom and everyone else along with it!
+
+
+
+
+Transfer Girl:
+I knew that you were stupid when I saw you, but I never knew that your head was this dense!
+
+
+
+
+Quentyn:
+So Ms. Intelligent knows how to do chemistry, big deal!
+
+
+
+
+Quentyn:
+I bet you don't have any friends because everyone else around you are so stupid.
+
+
+
+
+Teacher:
+THAT'S ENOUGH!
+music=nothing
+quentyn=quentynSurprised.png
+latia=latiaNormal.png
+
+Teacher:
+Lothston, you will come back to this classroom after school to clean up all the lab equipments as punishment.
+
+
+
+
+Quentyn:
+Wait a second! I didn't do anything! It was this bitc-
+quentyn=quentynAnger2.png
+
+
+
+Teacher:
+Silence. I will not hear any of your excuses. 
+quentyn=quentynSerious.png
+
+
+
+Teacher:
+All I know is that you were disturbing the progress of my class by being unproductive and raising your voice 
+in front of everyone.
+
+
+
+Teacher:
+As for you, transfer girl, I have no reason to not make you do the same thing this idiot will be doing after 
+school. 
+
+
+
+Teacher:
+But knowing that you just transferred, I won't pursue further in this matter.
+
+
+
+
+Teacher:
+But if I find you being uncooperative again, you will be finding yourself in an unpleasant situation.
+
+
+
+
+effect=schoolbell.wav
+
+
+
+
+
+Teacher:
+Class is dismissed! Get out of my class, all you imbeciles.
+
+
+
+
+fadeOut
+
+
+
+
+
+background=eveningHall.png
+fadeIn
+music=05 Talk as usual.wav
+quentyn=quentynSerious.png
+
+
+slidequentyn800
+
+
+
+
+
+Quentyn:
+Whew, I am finally done the clean up.
+
+
+
+
+Quentyn:
+Damn that transfer girl for getting me into trouble, I am definitly going to make her pay for this!
+
+
+
+
+Quentyn:
+But that girl honestly had some serious problem.
+
+
+
+
+Quentyn:
+I only mixed my chemicals incorrectly, but did she have to cuss at me for that?
+
+
+
+
+Quentyn:
+I don't care how deep her eyes are, but I am DEFINITLY not going to work with her again.
+
+
+
+
+Quentyn:
+Lets just get-
+
+
+
+
+A Scream:
+AHHH! SOMEBODY HELP!
+
+
+
+
+As I was turning around, a desperate distant cry came from the other side of the hallway.
+music=07 Death Striker6666.wav
+
+
+
+
+Quentyn:
+Somebody must be in trouble!
+quentyn=quentynAnger1.pngs
+
+
+
+slidequentyn-800
+
+
+
+
+
+The cry continued as I ran, until when I finally reached the front of the door of a classroom where it seemed
+like the source of the cry is the loudest.
+
+
+
+
+I pushed open the door forcefully but what I saw in the classroom immediately made me feel unsafe.
+background=eveningClass.png
+
+
+
+
+A tall, dark figure was pinning a student on his neck against the wall.
+
+
+
+
+
+He was nearly seven feet tall. He wore one of those 1800s-style English male dress covered by a cape which 
+gave him the appearance of a rich vampire.
+
+
+
+
+As the man gripped the boy's neck with more force, the boy's face contorted with agony from the lack of 
+oxygen and the pain at his throat.
+
+
+
+
+But even before he succumbed to that, the dark figure put his palm on the boy's head and pulled a silvery,
+misty substance out of his body.
+
+
+
+
+The boy's suffering intensified, and he let out a scream of pain that could have pierced hell.
+
+
+
+
+
+When the man finished, he loosened the grip on the boy and the boy fell onto the floor, silent as a puppet.
+
+
+
+
+
+slidequentyn550
+
+
+
+
+
+Quentyn:
+What the ........
+
+quentyn=quentynSurprised.png
+
+
+?????:
+What do we have here?
+
+
+
+
+The man turned his head towards the door and looked at me with those eyes of the demon.
+
+
+
+
+
+?????:
+HAHAHAHAHAHA! Another human!? Today is my lucky day!
+
+
+
+
+Quentyn:
+What......WHAT THE HELL DID YOU DO TO HIM!?
+quentyn=quentynAnger1.png
+
+
+
+?????:
+Him? Kukukukukuku...... You are about to find out boy.
+
+
+
+
+The man approached me sinisterly and I backed off a few step. It looked like he was about to do something
+terrible.
+
+
+
+
+shake
+
+
+
+
+
+In an instant, the man launched himself towards me like a missile.
+
+
+
+
+
+Just like the other boy, he pinned me against the wall, and an omnious aura began to emit out of his right 
+hand.
+
+
+
+
+I desperately tried to free myself from his grasp but his left hand was too rigid.
+
+
+
+
+
+In just a few seconds, my surrounding became blurry as I struggled for air.
+
+
+
+
+
+?????:
+Say good bye.
+
+
+
+
+He raised his right hand and reached towards my face.
+
+
+
+
+
+Right before I lost my consciousness, a flash of white light shot past the man's left arm.
+
+
+
+
+
+The next moment, I fell onto the floor.
+
+
+
+
+
+I gasped heavily for the few seconds of air that I lost.
+
+
+
+
+
+The man immediately jumped back to the corner of a room and an unknown rage over took those demonic eyes.
+
+
+
+
+
+?????:
+WHO IS THERE!?
+
+
+
+
+I looked around the room. It was the same as when I entered, but at the most right corner of my eye sight,
+where there was nothing a moment ago, there now stood a girl.
+
+
+
+
+She had long hair that was tied up, a mysterious pendant, and deep blue eyes.
+
+
+
+
+
+Quentyn:
+(It was the transfer girl that I met this morning!)
+
+
+
+
+Quentyn:
+(What in the name of god is she doing in this dangerous place!?)
+
+
+
+
+She took a few steps toward us and looked at the motionless body that was lying on the floor
+
+
+slidelatia-600
+
+
+Transfer Girl:
+Did you take away the soul of this student?
+
+
+
+
+?????:
+what if I did?
+
+
+
+
+Quentyn:
+(The soul of the student!? What the hell are they talking about!? Is this some kind of rehearsal for a
+performance?)
+
+
+
+Transfer Girl:
+So this is how it has to be.......
+
+
+
+
+The transfer girl reached out her hand into the air, and then, what looked like the shape of a sword began to
+shape within her grasp.
+
+
+
+
+She then pointed the bladeless sword towards the man.
+
+
+
+
+
+Transfer Girl:
+In the name of the Holy Twilight Council, I will eliminate you.
+
+
+
+
+Quentyn:
+(The holy what? Am I sure that I am not dreaming all this?)
+
+
+
+
+?????:
+Hmmmm.........So you are from the Council.
+
+
+
+
+?????:
+Are you another one of those third rate bounty hunters?
+
+
+
+
+?????:
+If you value your life, I recommend you to run away from me as fast as possible. No one who fought me
+ever survived-
+
+
+
+Without any hesitation, the transfer girl charged toward the man.
+
+
+
+
+
+The girl slashed at him. He dodged the sword by ducking.
+
+
+
+
+
+The man countered by extending his razor sharp nails toward the girl's heart.
+
+
+
+
+
+But the girl saw through this. 
+
+
+
+
+
+shake
+
+
+
+
+
+She jumped and sumersaulted to the back of the man, and kicked him with such a strong force that sent him 
+straight to the wall.
+
+
+
+
+The man fell onto the floor, and there was a marking of a humanoid shape on the wall where he was slammed 
+into.
+
+
+
+
+I lost my speech as I gulped at the monstrous strength of this girl in front of me.
+
+
+
+
+
+Quentyn:
+How did you do that .........
+
+
+
+
+The man stood up and balanced his body weakily.
+
+
+
+
+
+?????:
+How dare you ........
+
+
+
+
+?????:
+You made a big mistake girl.........you will regret ever challenging me!
+
+
+
+
+The man swallowed the misty substance that he held for all this time and the darkness emitted by him suddenly
+seemed to become stronger.
+
+
+
+
+Transfer Girl:
+Get out of this place now.
+
+
+
+
+Quentyn:
+Um........are you talking to me?
+
+
+
+
+This is the first time she talked to me ever since she appeared in the room. I felt a little confused about
+all the stuffs that just happened.
+
+
+
+
+Transfer Girl:
+That man is not human. You saw how he sucked the soul of that student.
+
+
+
+
+Transfer Girl:
+If you stay here any longer, I can't guarantee your safety.
+
+
+
+
+Transfer Girl:
+So leave this place at once, and never come back here again.
+
+
+
+
+?????:
+I am afraid that is not possible.
+
+
+
+
+The man suddenly appeared behind me like he just teleported there.
+
+
+
+
+
+I looked over my shoulder. The man surged his hand towards me like a snake.
+
+
+
+
+
+effect=stab.wav
+
+
+
+
+
+And then, there was the sound of ripping of the flesh.
+
+
+
+
+
+The transfer girl stood in front of me like a shield, and she was holding something.
+
+
+
+
+
+From the back of her hand protruded what looked like five really long nails.
+
+
+
+
+
+Her hand bled heavily, but she was also holding onto the man's snake-like hand tightly enough to prevent it
+from stabbing past even more.
+
+
+
+
+Quentyn:
+Hey! Your hand is hurt!
+
+
+
+
+Transfer Girl:
+Stop worrying about me, moron! Get out of here NOW!
+
+
+
+
+Quentyn:
+..................
+
+
+
+
+Quentyn:
+.......I'm sorry.
+
+
+
+
+slidequentyn-700
+
+
+
+
+
+I stood up and darted off, like a coward.
+
+
+
+
+
+background=eveningHall.png
+latiaX=-600
+
+
+
+
+I was overwhelmed by guilt.
+
+
+
+
+
+I was being protected by someone whom I barely know, and to top it all off, it was someone whom I previously 
+hated.
+
+
+
+
+She seriously damaged her hand to protect my life, and I could do nothing to help her, it was the worst kind 
+of feeling.
+
+
+
+
+Quentyn:
+(Damn it! Why do I feel so useless.)
+
+
+
+
+Quentyn:
+(Maybe I should go back and help her out somehow? Besides, her hand was injured.)
+
+
+
+
+Transfer Girl:
+Flash Back(What are you doing!? Are you trying to kill us all!?)
+
+
+
+
+Quentyn:
+(Forget it, she didn't want me there.)
+
+
+
+
+Quentyn:
+(If I was there, then I would probably just be a dead weight for her.)
+
+
+
+
+Transfer Girl:
+Flash Back(You think you are some kind of genius, Einstein?)
+
+
+
+
+Quentyn:
+(But then again, she really pissed me off with what she said in class, she isn't that great or anything.)
+
+
+
+
+Transfer Girl:
+Flash Back(I knew that you were stupid when I saw you, but I never knew that your head was this dense!)
+
+
+
+
+Quentyn:
+ARG! DAMNIT!
+
+
+
+
+quentynX=-500
+slidequentyn840
+
+
+
+
+Quentyn:
+I AM NOT STUPID!
+
+
+
+
+I turned a full 180 degrees from the direction that I was running.
+
+
+
+
+
+Quentyn:
+Wait and see, transfer girl! I will prove it to you that even I can be helpful sometimes!
+
+
+
+
+slidequentyn-840
+
+
+
+
+
+fadeOut
+
+
+
+
+
+background=eveningClass.png
+
+latiaX=300
+
+latia=latiaIrritation.png
+fadeIn
+?????:
+Kukuku......it seems like you are at your limit.
+
+
+
+
+She was panting, and it looked like she used up all of her trump cards, but that was not enough against this
+dangerous, demonic force in the room.
+
+
+
+
+?????:
+I suppose even the elitest mage from the Councils is not as strong as a forbidden magic user.
+
+
+
+
+?????:
+But I must say, you are ten times the normal bounty hunters that I encountered! 
+
+
+
+
+The transfer girl stood in the middle of the wrecked classroom.
+
+
+
+
+
+She held onto the sword with only one hand, the other dangling from her arm from the damage it took.
+
+
+
+
+
+?????:
+I am sure your soul will be delicious!
+
+
+
+
+Transfer Girl:
+I see.....the soul stealing ability.....the overwhelming negative energy you are emitting.
+
+
+
+
+Transfer Girl:
+Draco Leung............
+
+
+
+
+Draco:
+Hahahaha. So you just realized now?
+
+
+
+
+Draco:
+But knowing who I am right before you are about to die is not too useful.
+
+
+
+
+Draco:
+DIE!
+
+
+
+
+Draco charged at the weakened transfer girl.
+
+
+
+
+
+She could do nothing but watch as she witnesses her own future doom.
+
+
+
+
+
+Quentyn:
+HOLD IT RIGHT THERE!
+slidelatia200
+
+
+
+quentyn=quentynAnger1.png
+slidequentyn600
+music=19 Maybe I can take you.wav
+
+
+
+My body moves without me telling it to, and before I know it, I was in front of the man holding a fire
+extinguisher from the hallway.
+
+
+
+
+I sprayed the extinguisher at the man blindly in an attempt to meddle with his sight.
+
+
+
+
+
+Draco:
+ARG!
+
+
+
+
+It was working! I actually never expected it to work this well, especially against someone who looked as 
+invincible as him.
+
+
+
+
+Quentyn:
+NOW IS YOUR CHANCE, TRANSFER GIRL!
+
+
+
+
+Transfer Girl:
+WATCH OUT!
+latia=latiaAnger.png
+
+
+
+From the corner of my eyes, I saw a familiar snake-like hand that was surging toward my body like a spear.
+
+
+
+
+
+But this time, it was too close. I could not hope to dodge it at this distance. I closed my eyes to prepare
+for the pain-
+
+
+
+
+music=nothing
+effect=stab.wav
+
+
+
+
+And there was the sound of flesh ripping. But I felt no pain. I opened my eyes to look for what just happened.
+
+
+
+
+
+I could see nothing but silky hairs in front of me. It smelled nice, but it was also accompanied by the stench of 
+blood.
+
+
+
+
+There stood the transfer girl. She stood in front of me like a shield, protruding from the right side of her back 
+were five long nails.
+
+
+
+
+The man pulled his hand out of the girl's body, and she collapsed onto the blood-bathed floor.
+
+
+
+
+
+Quentyn:
+HEY! GET A HOLD OF YOURSELF!
+
+
+
+
+Transfer Girl:
+Why did you come back here?
+
+
+
+
+She sounded weak, she was losing lots of blood from her wound.
+
+
+
+
+
+Transfer Girl:
+There is a limit to stupidity, you moron........
+
+
+
+
+Quentyn:
+WHY!? WHY DIDN'T YOU KILL HIM WHEN YOU HAD THE CHANCE!?
+
+
+
+
+Transfer Girl:
+Why? This is my mission.......I am supposed to defend the innocents, am I not?
+
+
+
+
+Quentyn:
+DAMN IT! DAMN IT! DAMN IT!
+
+
+
+
+Quentyn:
+What happened to your cold attitude!? Why did you try to save someone worthless like me!?
+
+
+
+
+Quentyn:
+This is all my fault! If I didn't come back, then this wouldn't have happened to you!
+
+
+
+
+Transfer Girl:
+No, you idiot....
+
+
+
+
+Transfer Girl:
+I trained every day.......so I could become stronger........so that less people can die.
+
+
+
+
+Transfer Girl:
+If I can't save someone like you.....then how can I call myself a mage.
+
+
+
+
+Transfer Girl:
+But you came here to help me..........I am so pathetic, making a mere human worry about me.....
+
+
+
+
+Quentyn:
+HEY! GET YOURSELF TOGETHER!
+
+
+
+
+The girl's voice progressively became weaker.
+
+
+
+
+
+By now, the whole room is stenched by the smell of blood.
+
+
+
+
+
+Transfer Girl:
+By the way........you asked me for my name..........
+
+
+
+
+Transfer Girl:
+My name........is Latia........use this pendant....
+
+
+
+
+I just noticed the white glow coming from her chest.
+
+
+
+
+
+It came from the pendant she always wore, does this contain some kind of ultimate power?
+
+
+
+
+
+The mysterious glow became brighter every second, and it started to engulf everything around it.
+
+
+
+
+
+Draco:
+What..!
+
+
+
+
+glow
+
+
+
+
+
+What is this light.
+
+
+
+
+
+My body feels so light right now, its like there is no gravity.
+
+
+
+
+
+I can't see my surroudings right now, so I think I am floating.
+
+
+
+
+
+But I was at the classroom right now, how did I end up in this weird place?
+
+
+
+
+
+Could all of this be just in my head?
+
+
+
+
+
+A Voice:
+Do you want strength.
+
+
+
+
+Quentyn:
+Yes! I want to save Latia!
+
+
+
+
+A Voice:
+Very well......
+
+
+
+
+quentynX=100
+
+latiaX=550
+background=eveningClass.png
+dim
+
+The light faded out. I am back to the classroom where I used to be.
+
+
+
+
+
+But I feel a lot stronger. Its as if power is flowing through my veins. I felt like I could do anything!
+
+
+
+
+
+Draco:
+I don't know what just happened, but I don't have time for this.
+
+
+
+
+Draco:
+SO DIE!
+
+
+
+
+Like before, the man charged at me.
+
+
+
+
+
+Quentyn:
+REFLECT!
+quentyn=quentynAnger1.png
+
+
+
+I just spontaneously yelled out something without knowing its effect.
+
+
+
+
+
+But immediately after that, the man was forced backwards like he just bounced against an invisible wall.
+
+
+
+
+
+shake
+
+
+
+
+
+The force of the bounce slammed him against the wall and clouds of dust fell from the ceiling due to the
+impact.
+
+
+
+
+Quentyn:
+(What the hell was that!?)
+
+
+
+
+The man stood up from the floor like a zombie. When you expected to look of surprise on his face, 
+the side of his mouse curved upwards to form a deadly smirk.
+
+
+
+
+Draco:
+Kukuku......this is awesome.
+
+
+
+
+Draco:
+You are the first person to ever defend against my attack like that.
+
+
+
+
+Draco:
+A full-fledged mage....this is better than I have ever imagined!
+
+
+
+
+Draco:
+Instead of the girl's soul, I will take your soul instead!
+
+
+
+
+battle1
+
+
+
+
+
+Draco:
+........!
+
+
+
+
+Quentyn:
+Take that!
+
+
+
+
+Draco:
+ARHHHH!!!!!!!!!!!!!!
+
+
+
+
+Felled by my magic, the dark shape was consumed by flame.
+
+
+
+
+
+By the end, all that was left was a pile of ashes on the floor.
+
+
+
+
+
+Quentyn:
+Why do I feel so tired.........
+
+
+
+
+My surrounding started to become blurry and I started to lose my balance.
+
+
+
+
+
+slidequentyn-800
+
+
+
+
+
+I collapsed onto the floor, exhausted from my battle against Draco.
+
+
+
+
+
+And the rest was all darkness........
+
+
+
+
+
+fadeOut
+
+
+
+
+
+background=100%.png
+fadeIn
+
+
+
+
+?????:
+It seems like you have failed, Draco Leung.
+
+
+
+
+?????:
+Nonetheless, the plan is proceeding as planned.
+
+
+
+
+?????:
+YOu have served your purpose as our pawn, Draco.
+
+
+
+
+?????:
+The rest shall be up to me and ...........
+
+
+
+
+fadeOut
+
+
+
+
+
+background=myRoom.png
+fadeIn
+
+
+
+
+slidequentyn600
+quentyn=quentynSerious.png
+
+
+
+
+Quentyn:
+..................where am I?
+
+
+
+
+Dianna:
+You finally woke up.
+
+
+
+
+Dianna:
+You have being sleeping for almost the whole day.
+
+
+
+
+Dianna:
+I was really worried when you collapsed at school, Quentyn.
+
+
+
+
+Quentyn:
+I collapsed?
+
+
+
+
+Dianna:
+Yes you did. The doctor said that the amount of workload you had on school put a strain on your body.
+
+
+
+
+Dianna:
+You shouldn't push yourself so much, Quentyn.
+
+
+
+
+With her mention of strain, I remembered what happened to me at school.
+
+
+
+
+
+I think I did something that normal humans can't do.......and that totally wiped me out.
+
+
+
+
+
+Quentyn:
+Mom, can I ask you a question?
+
+
+
+
+Dianna:
+Yes, honey.
+
+
+
+
+Quentyn:
+Do you think mages exist?
+
+
+
+
+Dianna:
+Of course I do.
+
+
+
+
+Quentyn:
+Really!
+
+
+
+
+Dianna:
+In the legend, it was said that mages appear whenever people are in trouble.
+
+
+
+
+Dianna:
+They use their magic and perform miracles for people who are in dire need of them.
+
+
+
+
+Quentyn:
+Oh, I see.........
+
+
+
+
+Dianna:
+Do you believe in mages?
+
+
+
+
+Quentyn:
+I am not sure......but I want to find out.
+
+
+
+
+Quentyn:
+What is the time now mom?
+
+
+
+
+Dianna:
+It is eleven in the morning. Why?
+
+
+
+
+Quentyn:
+I am going to school. I need to go because I have something really important to do.
+
+
+
+
+Dianna:
+I see......go ahead son, makes sure you come back for dinner, ok?
+
+
+
+
+Quentyn:
+I will, mom. I love you.
+
+
+
+
+slidequentyn-600
+
+
+
+
+
+fadeOut
+
+
+
+
+
+background=hallway.png
+fadeIn
+
+
+
+
+Quentyn:
+You better be in class Latia.
+
+
+
+
+Quentyn:
+I am gonna get all the answer that I need from you!
+
+
+
+
+fadeOut
+
+
+
+
+
+background=classroom.png
+fadeIn
+
+
+
+
+Teacher:
+Lothston! what the hell are you doing here! I thought you were knocked out cold-
+
+
+
+
+slidequentyn600
+
+
+
+
+
+Quentyn:
+Where is Latia?
+
+
+
+
+latiaX=1100
+slidelatia-550
+
+
+
+
+Latia:
+?
+latia=latiaNormal.png
+
+
+
+Quentyn:
+What........what happened to your wound! You were stabbed through your-
+quentyn=quentynAnger2.png
+
+
+
+Latia walked over to me and stuck out a finger in front of my mouth.
+
+
+
+
+
+Latia:
+Whisper(We will talk about this somewhere else)
+
+
+
+
+Quentyn:
+Why can't we talk here-
+
+
+
+
+Latia:
+Whisper(IDIOT! People around us are normal humans, don't involve them in this!)
+latia=latiaAnger.png
+
+
+
+Teacher:
+Hey, what are you two babbling about? We have a class going on here in case you don't know.
+
+
+
+
+Teacher:
+Now sit down and stop talking.
+
+
+
+
+Quentyn:
+I'm sorry, but I am gonna have to borrow Latia for few moments. We will be done soon.
+
+
+
+
+slidequentyn-1100
+
+
+
+
+
+slidelatia-1100
+
+
+
+
+
+Teacher:
+HEY! WHERE DO YOU TWO THINK YOU ARE GOING!? WE ARE IN THE MIDDLE OF THE CLASS DAMNIT!
+
+
+
+
+fadeOut
+
+
+
+
+
+background=schoolRoof.png
+fadeIn
+latia=latiaNormal.png
+quentyn=quentynSerious.png
+
+
+latiaX=1100
+slidequentyn600
+
+
+
+
+slidelatia-600
+
+
+
+
+
+Latia:
+So, did you need something?
+
+music=06 Memory of the moment.wav
+
+
+Quentyn:
+You know very well what I need; what the hell was about all that happened yesterday? I think I deserve an
+explanation!
+quentyn=quentynAnger1.png
+
+
+Latia:
+What happened yesterday was a complete accident.
+
+
+
+
+Latia:
+I am not sure of what happened there myself, but you were somehow able to perform magic.
+
+
+
+
+Quentyn:
+I.......performed magic?
+quentyn=quentynSerious.png
+
+
+
+Latia:
+Yes. Only mages can perform magic, so what you did yesterday clearly indicates that you are a mage.
+
+
+
+
+Quentyn:
+Hey! That is impossible! I've been living normally like everyone else since I was born!
+quentyn=quentynAnger2.png
+
+
+
+Latia:
+Look, its hard for me to believe that an idiot like you could be a mage too ok! But truth is the truth.
+latia=latiaIrritation.png
+
+
+
+Quentyn:
+Then my mom........is she a mage too?
+
+
+
+
+Latia:
+She is.
+
+
+
+
+All the information Latia threw at me just now sounded like something straight out of a fantasy game.
+
+
+
+
+
+But instead of being confused and scared, my body trembled with excitment.
+
+
+
+
+
+Latia:
+Look, I am on a top secret and dangerous mission, so stop involving yourself with me anymore.
+
+
+
+
+Quentyn:
+What!? How do you expect me to leave you alone after all that happened!
+quentyn=quentynAnger2.png
+
+
+
+Latia:
+Do you even know the situation you were in yesterday, you moron!
+latia=latiaAnger.png
+
+
+
+Latia:
+If I didn't appear, you would have lost your soul just like the boy from yesterday!
+
+
+
+
+At the mention of the boy, I vividly remembered the hellish cry that I heard when his soul was taken.
+
+
+
+
+
+Despite the amount of horror movies I watched, just thinking about that scene sent chill down my spine.
+
+
+
+
+
+Quentyn:
+Who was that scary guy anyways? Why did he come after me?
+quentyn=quentynSerious.png
+
+
+
+Latia:
+His name was Draco Leung.
+latia=latiaNormal.png
+
+
+
+Latia:
+He was a S-ranked criminal who committed murder, sabotage, machination, terrorism, and-
+
+
+
+
+Quentyn:
+Whao Whao, wait a second! 
+quentyn=quentynSurprised.png
+
+
+
+Quentyn:
+Why was someone THIS DANGEROUS killing people in a no-name school like ours?
+
+
+
+
+Latia:
+Like I would know why.
+latia=latiaIrritation.png
+
+
+
+Latia:
+I was totally shocked too when I saw him.
+
+
+
+
+Latia:
+For all I know, he could have been hunting for treasure underneath the school building or something.
+
+
+
+
+Latia:
+But what I do know for sure is that there are more of them hiding in this school.
+
+
+
+
+Latia:
+The amount of magic energy that I detected when I first came to this school hasn't subsided yet......
+
+
+
+
+Latia:
+In other words, if you don't want to die, stop associating yourself with me.
+
+
+
+
+Latia:
+I don't need a dead weight like you pulling me down every time.
+
+
+
+
+Latia:
+And who knows what kind of enemy we will meet next time.......
+
+
+
+
+Quentyn:
+Then what about you? You seemed to have a really hard time yesterday fighting Draco.
+latia=latiaNormal.png
+
+
+
+Latia:
+Are you that dense? If you didn't come interfere, I would have destroyed Draco in less than five minutes.
+latia=latiaAnger.png
+
+
+
+Quentyn:
+That's beside the point! If two guys came attacking you, how are you going to take both of them at once?
+quentyn=quentynAnger2.png
+
+
+
+Latia looked at me with a surprised look. She tried to open her mouth to say something, but nothing came out.
+latia=latiaNormal.png
+
+
+
+
+Quentyn:
+Look, these guys are killing students and I bet that this wasn't even the first time it happened.
+
+
+
+
+Quentyn:
+Whatever these guys have on their agenda, I can't forgive them for what they did!
+
+
+
+
+Quentyn:
+So if you are going to take on these guys, then you got to count me in!
+
+
+
+
+Latia:
+You still don't understand the situation you are in!
+latia=latiaAnger.png
+
+
+
+Latia:
+Stop playing the hero like you are in a video game you idiot!
+
+
+
+
+Latia:
+Next time, you won't get away with just a ripped up hand or a torn up body, but you could very well lose your
+life!
+
+
+
+Quentyn:
+Then LET them tear up my hand or body! At least it is better than fighting alone by myself!
+latia=latiaNormal.png
+
+
+
+Latia:
+..............I don't understand you at all.
+
+
+
+
+Latia:
+Why....why does a normal human like you go so far just to help me?
+
+
+
+
+Quentyn:
+Because I really like you, Latia!
+
+
+
+
+Quentyn:
+You saved me twice yesterday, and in both times, you hurt yourself trying to protect me.
+
+
+
+
+Quentyn:
+BUt even though you were hurt, you still continued to fight, and I really admire that!
+
+
+
+
+Quentyn:
+The next time you are in danger, I want to be the person to protect you!
+
+
+
+
+Latia's face suddenly became apple red from my last few lines. She turned around to hide her face from me.
+Did I say something?
+
+
+
+
+Latia:
+Do whatever you want, just don't get in my way the next time we fight.
+
+
+
+
+Quentyn:
+YES! THANK YOU FOR LETTING ME IN ON THIS!
+
+
+
+
+?????:
+So you want to protect her eh, Quentyn Lothston?
+music=07 Death Striker6666.wav
+latia=latiaIrritation.png
+
+
+Out of no where, a mysterious man approached us from the sidewalk.
+
+
+
+
+
+From the way he talked, he seemed like he was looking for trouble.
+
+
+
+
+
+Chronos:
+My name is Chronos.
+
+
+
+
+Chronos:
+I am here to congratulate you on destroying Draco Leung, especially you, Quentyn.
+
+
+
+
+Quentyn:
+What? Me?
+quentyn=quentynSurprised.png
+
+
+
+Latia:
+Don't go along with him you idiot! He is trying to trick you!
+latia=latiaAnger.png
+
+
+
+Chronos:
+I heard that there was a boisterous girl who is with Quentyn, but who would have thought that it was Latia of
+the Twilight Princess!
+
+
+
+At the mention of her name, Latia's hands clenched into a fist.
+
+
+
+
+
+Chronos:
+You really are as belligerent as everyone says!
+
+
+
+
+Chronos:
+Unfortunately for you, I am not here to start a war.
+
+
+
+
+Chronos:
+But rather, I am here to make a deal with you.
+
+
+
+
+Latia:
+Do you know the absurdity of what you just said? How do you expect us to believe your words after yesterday's
+incident?
+
+
+
+Latia:
+If we don't like what you are about to say, we can take you down right here and now.
+
+
+
+
+Chronos:
+Frankly, I feel that resorting to violence to solve problems is childish and I had expected more civil
+behaviour from a mage of the Twilight Councils.
+
+
+
+Chronos:
+Why not just let us talk things through and plan the best course of action for both parties?
+
+
+
+
+Chronos:
+At least Quentyn would like to hear the deal, wouldn't you, Quentyn?
+
+
+
+
+Quentyn:
+Latia, let's just listen to what he has to say, we can deal with him later.
+quentyn=quentynSerious.png
+
+
+
+Latia:
+Grrrrr.......fine....
+latia=latiaIrritation.png
+
+
+
+Chronos:
+Very well met, Quentyn Lothston.
+
+
+
+
+Chronos:
+My deal is as follows:
+
+
+
+
+Chronos:
+You two shall work for my faction, and we will not bother this school ever again.
+
+
+
+
+Quentyn:
+SO YOU ARE DOING SOMETHING IN THIS SCHOOL! HOW DARE YOU BASTARDS-
+
+
+
+
+Chronos:
+I am not done talking yet Quentyn, I suggest you to keep your cool and listen to the rest of my story.
+
+
+
+
+Chronos:
+As you have sensed, this is not a normal school.
+
+
+
+
+Chronos:
+There are many other places in the world where mages live secretly with humans, but this place has the 
+highest magical energy density ever seen.
+
+
+
+Chronos:
+My faction has already discovered the artifact that controls this source of energy, the Ring of Solomon.
+
+
+
+
+Latia:
+Impossible! The Twilight Council destroyed that ring centuries ago!
+latia=latiaAnger.png
+
+
+
+Chronos:
+That was what you were taught.
+
+
+
+
+Chronos:
+But before it was destroyed, the Twilight Councils attempted to extract the power contained in the ring.
+
+
+
+
+Chronos:
+They set up a laboratory at a remote location, but one day, their experiment backfired.
+
+
+
+
+Chronos:
+The laboratory and everyone in the laboratory were obliterated.
+
+
+
+
+Chronos:
+Every document and sources regarding the existence of the ring also disappeared.
+
+
+
+
+Chronos:
+But few months ago, my colleague uncovered the artifact at the deepest chamber of the school building.
+
+
+
+
+Chronos:
+She and I are currently trying to remove all the enchantments that are surrounding the ring.
+
+
+
+
+Chronos:
+With your helps, we can accelerate the speed of our work and gain access to the power of the ring.
+
+
+
+
+At the end of his speech, my head was clouded with question marks.
+
+
+
+
+
+However, Latia was completely dumbfounded by what Chronos just said.
+
+
+
+
+
+For someone who is the princess of whatever, and someone who knows so much about magic, she just looked at 
+Chronos with eyes of complete disbelief.
+
+
+
+
+Latia:
+This is impossible........
+latia=latiaNormal.png
+
+
+
+Chronos:
+As unbelievable as it sounds, we are the only ones in the whole world who knows about this.
+
+
+
+
+Chronos:
+If you help us and complete our work, we will share a reasonable amount of energy that we can acquire.
+
+
+
+
+Chronos:
+Simple enough, don't you think?
+
+
+
+
+I could feel the immense pressure surrounding Latia. She looked like she was being hammered down by the
+heavy choice that she was about to make.
+
+
+
+
+Latia:
+Ok..I shall help you-
+
+
+
+
+Quentyn:
+STOP THIS NONSENSE!
+quentyn=quentynAnger2.png
+
+
+
+Latia:
+what....!
+latia=latiaNormal.png
+
+
+
+Quentyn:
+At first, I thought this Chronos guy was gonna make some kind of reasonable trade.
+
+
+
+
+Quentyn:
+But I stand here listening to you speak and what do I hear?!
+
+
+
+
+Quentyn:
+You can't let this creepy son of a bitch carry you along with his horrible little speech!
+
+
+
+
+Latia:
+But if we help him, he would leave the school alone and I would be able to finish my mention!
+
+
+
+
+Quentyn:
+ARE YOU KIDDING ME!?
+
+
+
+
+Quentyn:
+What is this guy going to do after we finish unlocking this ring? 
+
+
+
+
+Quentyn:
+Do you think someone creepy like him is going to save the world from starvation or something after getting 
+this power? HELLZ NO!
+
+
+
+Quentyn:
+There is no reason to hesitate over this even for a second!
+
+
+
+
+Quentyn:
+We will never take orders from this bastard spouting such patently ridiculous nonsense!
+
+
+
+
+Latia:
+Quentyn.........
+
+
+
+
+Latia:
+Hm, I can't believe I am getting lectured by an idiot like him....
+
+
+
+
+Latia:
+You heard him, Chronos, we will not help you in uncovering the Ring.
+
+
+
+
+Chronos:
+Hmmmm, I see.
+
+
+
+
+Chronos:
+So you are that kind of person, unlike a certain someone I know.
+
+
+
+
+Chronos:
+Very well, just in case this plan failed, I prepared a plan B.
+
+
+
+
+Quentyn:
+Plan B?
+quentyn=quentynSurprised.png
+
+
+
+Chronos:
+Behold!
+
+
+
+
+With his last word, the pavement of the entire roof glowed with a blinding light.
+music=nothing
+
+
+
+
+glow
+
+
+
+
+
+As the light intensified, the shapes around me slowly became blocked by the glow.
+
+
+
+
+
+Quentyn:
+Latia!
+
+
+
+
+background=schoolRoof.png
+latiaX=-600
+quentynX=300
+
+dim
+
+When the light receded, the only shape that I could find in the whole roof top was Chronos.
+
+
+
+
+
+Quentyn:
+Where the hell did you take Latia to!
+quentyn=quentynAnger1.png
+
+
+
+Chronos:
+I just sent her to my colleague's location.
+
+
+
+
+Chronos:
+I am sure that my colleague will take good care of Latia.
+
+
+
+
+Quentyn:
+WHY YOU!
+
+
+
+
+Chronos:
+Now, I am done negotiating with you. Allow me to return to my colleague.
+
+
+
+
+Quentyn:
+HEY WAIT! You are not leaving this place until you tell me where you sent Latia!
+
+
+
+
+Chronos:
+Oh? What if I don't?
+
+
+
+
+Quentyn:
+Then I will clobber you into the ground!
+
+
+
+
+Chronos:
+Hahaha, such rash words, it seems like I won't be able to get away peacefully....
+
+
+
+
+Chronos:
+Very well, I shall take you on, and once I am done, I will use you as a sacrifice for uncovering the artifact.
+
+
+
+
+battle3
+
+
+
+
+
+Chronos:
+!!!!
+
+quentynX=300
+music=07 Death Striker6666.wav
+
+Quentyn:
+Now, tell me where is Latia!
+quentyn=quentynAnger1.png
+
+
+
+Chronos:
+I see, there is no surprise that you defeated Draco.
+
+
+
+
+Chronos:
+But I am curious as to what could have given you such powerful strength.
+
+
+
+
+Chronos:
+Perhaps the danger of your friend brough out some form of latent strength in you?
+
+
+
+
+Quentyn:
+STOP MESSING WITH ME! WHERE IS LATIA!?
+
+
+
+
+Chronos:
+You are a hot-headed one aren't you?
+
+
+
+
+Chronos:
+Unforunately for you, I have a plan C in case this failed.
+
+
+
+
+Chronos:
+Behold!
+
+
+
+
+glow
+
+
+
+
+
+The entire roof top was once again engulfed by the blinding light.
+
+
+
+
+
+Chronos:
+We shall meet again, Quentyn Lothston.
+
+
+
+
+Quentyn:
+WAIT!
+
+
+
+
+background=schoolRoof.png
+quentynX=300
+dim
+
+
+
+Just like before, when the light finally receded, Chronos was no where to be seen.
+
+
+
+
+
+Quentyn:
+DAMNIT!
+quentyn=quentynAnger2.png
+
+
+
+fadeOut
+
+
+
+
+
+background=eternalGarden.png
+latiaX=350
+fadeIn
+
+
+
+Latia:
+Where is this place.............
+latia=latiaIrritation.png
+
+
+
+Latia found herself in a mysterious space.
+
+
+
+
+
+Dark as night, and vast as the ocean, the space was like a different dimension all together.
+
+
+
+
+
+Her surrouding was blurry and misty, but she could make out several large pillars.
+
+
+
+
+
+However, there was one pillar that caught her attention.
+
+
+
+
+
+It was the biggest and the thickest pillar of all, and the tip of the pillar shined light that was fiery
+benevolent as the sun itself.
+
+
+
+
+Latia:
+Could that be........
+
+
+
+
+?????:
+The Ring of Solomon, the granter of wish.
+
+
+
+
+Latia:
+Who's there!?
+latia=latiaAnger.png
+
+
+
+?????:
+I am Keeper of the Soul, Masaeiv.
+latia=latiaNormal.png
+
+
+
+Wearing a ritually decorated robe and hiding underneath and behind a hood and a white mask, a figure appeared
+behind Latia.
+
+
+
+
+Masaeiv:
+This is an alternate dimension where the dead souls gather, and it is a place where those souls unite as one
+at the top of that pillar.
+
+
+
+Latia looked at the mysterious masked figure, then at the source of light. The searing light luminated
+endlessly.
+
+
+
+
+Masaeiv:
+Ring of Solomon calls forth all beings with a desire, living or non-living.
+
+
+
+
+Masaeiv:
+Once it is obtained, its master can be granted one of his wish.
+
+
+
+
+Masaeiv:
+For thousands of years, the Ring of Solomon was sought after by treasure hunters, mages, and the wealthy.
+
+
+
+
+Masaeiv:
+One or more people died each time it changed its owner, and each of the dead souls who has sought after the
+ring are gathered in this dimension to unite at the ring.
+
+
+
+With the mention of the soul, Latia noticed and could feel the spirit particles that are flowing past her 
+body like water in stream.
+
+
+
+
+Latia:
+Then why am I here?
+
+
+
+
+Latia:
+I am not dead, and I have certainly never even knew that the Ring of Solomon existed.
+
+
+
+
+Masaeiv:
+To reawaken the power of the ring, a sacrifice of a strong soul is needed.
+
+
+
+
+Masaeiv:
+You are called here because the deity living within the ring deems you as a suitable sacrifice.
+
+
+
+
+Latia:
+Don't screw with me you witch! Just what right do you have of taking other people's lives for your own gain!
+latia=latiaAnger.png
+
+
+
+Masaeiv:
+Being the sacrifice of Great Solomon is not a right, it is a privilege. Deem yourself honoured for even
+being selected.
+
+
+
+Latia:
+What if I don't obey? What are you gonna do about it?
+
+
+
+
+Masaeiv:
+Kukukuku, there is no need for me to do anything, the Great Solomon will judge you.
+
+
+
+
+Confused at what the figure just said, Latia looked at the tip of the tall pillar once again.
+
+
+
+
+
+Something was different this time. The spherical orb of light started to emit waves of magical energy in 
+all direction like the pulsating of the heart.
+
+
+
+
+The sphere grew bigger with each pulse and Latia sensed danger in whatever that thing was
+becoming.
+
+
+
+
+But Latia sensed something else.
+
+
+
+
+
+Chronos appeared from the mist. He seemed a little dissatisfied.
+
+
+
+
+
+Chronos:
+I have returned.
+
+
+
+
+Masaeiv:
+Excellent.
+
+
+
+
+Masaeiv:
+Before you are sacrificed, I shall show you a demonstration of the power of the Great Solomon.
+
+
+
+
+Latia:
+What...
+latia=latiaIrritation.png
+
+
+
+Looking at the confused Chronos, Masaeiv slowly raised her arm towards him.
+
+
+
+
+
+Masaeiv then formed a forceful palm against Chronos, and suddenly, his body was thrown back like a stone to the
+bottom of the tallest pillar.
+
+
+
+
+Chronos:
+WHAT ARE YOU DOING MASAEIV!?
+
+
+
+
+Masaeiv:
+Now you shall witness the ritual.
+
+
+
+
+High above Chronos, the sphere of energy stopped pulsating. 
+
+
+
+
+
+A whip-like bundles of energy extended from the ring and pierced through Chronos' head at a blinding speed.
+
+
+
+
+
+Kneeling in front of the pillar, Chronos silently stared at the source of the light.
+
+
+
+
+
+Like a mosquito sucking the blood out of its victim, the ring absorbed Chronos' soul through the bundle of
+energy.
+
+
+
+
+Once it was finished, the whip was pulled back, and Chronos collapsed on the floor.
+
+
+
+
+
+Latia:
+What the hell........
+
+
+
+
+Masaeiv:
+As you saw, the Ring of Solomon is not just an artifact, but it is also an entity, a divine entity that requires
+soul sacrifices.
+
+
+
+Masaeiv:
+The next sacrifice shall be you, so make your time........
+
+
+
+
+fadeOut
+
+
+
+
+
+background=100%.png
+fadeIn
+
+
+
+
+slidequentyn750
+
+
+
+
+
+Quentyn:
+Now, where could the entrance be......
+quentyn=quentynSerious.png
+
+
+
+Quentyn:
+I am sure that Chronos said that it was located in the deepest part of the school....
+
+
+
+
+Quentyn:
+Even though he said it was here, there are nothing other than dusts and bugs, not to mention that there is no
+light.
+
+
+
+Quentyn:
+Maybe Chronos lied to us-
+
+
+
+
+Quentyn:
+Ouch!
+
+
+
+
+When I could not see anything in front of me, my head came into contact with a solid surface.
+
+
+
+
+
+Confused at what I have just encountered, I knocked on the invisible surface in front of me, and I could clearly
+hear the sound of my hand hitting the wall.
+
+
+
+
+Quentyn:
+This is weird......maybe magic will work.
+
+
+
+
+effect=magic.wav
+
+
+
+
+
+I casted a weak destructive spell upon the invisible wall, but it only showed a little crack and ray of blue
+light came shined on the darkness from the slit that was created.
+
+
+
+
+Quentyn:
+So this is not enough huh? Lemme try this.
+
+
+
+
+effect=magic.wav
+
+
+
+
+
+I casted another spell, but this time it was stronger than the last, and it created more cracks on the invisible
+wall.
+
+
+
+
+I continued to cast spells on the wall, until finally when the entire surface of the wall was filled with slits.
+
+
+
+
+
+To finish it off, I casted my most destructive spell on the wall, and the wall shattered like a mirror.
+
+
+
+
+
+glow
+
+
+
+
+
+background=eternalGarden.png
+quentynX=-600
+dim
+
+
+
+But what awaited me on the other side of the wall was completely unexpected.
+
+
+
+
+
+Like standing at the entrance of a dark cave, I was looking at a misty, vast horizon of space.
+
+
+
+
+
+Quentyn:
+There is a huge space underneath the school building!
+
+
+
+
+Despite the mist, I could make out some large pillars and two blurry shapes in the space.
+
+
+
+
+
+I walked closer to the shapes to see what or who they are.
+
+
+
+
+
+From the distance that I was in, I could sort of make out that they were at least five meters away.
+
+
+
+
+
+There was one who were wearing a robe, but I couldn't see what was under the hood.
+
+
+
+
+
+On the other hand, the slightly shorter figure was looking at something in the sky.
+
+
+
+
+
+She looked at the sky so intently, as if she just saw a UFO for the first time in her life.
+
+
+
+
+
+Quentyn:
+Latia!
+
+
+
+
+
+slidelatia-600
+
+
+
+
+Latia:
+!!!Quentyn!
+latia=latiaNormal.png
+
+
+
+quentyn=quentynSuprised.png
+slidequentyn600
+
+
+
+
+Quentyn:
+What are you doing here!
+quentyn=quentynAnger1.png
+
+
+
+Quentyn:
+Lets get out of here now!
+
+
+
+
+Latia:
+Alright!
+latia=latiaIrritation.png
+
+
+
+When I turned around to look for the place where I came in from, I saw nothing but floating mist.
+
+
+
+
+
+Quentyn:
+The entrance disappeared.
+
+
+
+
+Masaeiv:
+Unforunately, you can no longer leave this place.
+
+
+
+
+Masaeiv:
+The girl's soul must be given to the Ring of Solomon to finalize the awakening of the deity.
+
+
+
+
+Masaeiv:
+As long as the girl's soul is not given to the ring, we are stranded in this dimension forever.
+
+
+
+
+Quentyn:
+That is total bullshit!
+quentyn=quentynAnger2.png
+
+
+
+Quentyn:
+THere must be some other way!
+
+
+
+
+Masaeiv:
+There is no other way, if we do not sacrifice her now, all of us would be sucked into the ring.
+
+
+
+
+In a rage, I charged at the hooded figure and aimed a fist straight at its face.
+
+
+
+
+
+However, my punch was completely blocked by some kind of invisible barrier, like the one I encountered in the
+dark basement.
+
+
+
+
+Masaeiv:
+So you will not listen to reason.
+
+
+
+
+Masaeiv:
+Then I shall make you listen to reason, by force.......
+
+
+
+
+battle4
+
+
+
+
+
+With my last punch, I broke through the invisible barrier, and it connected with Masaeiv's mask.
+
+
+
+
+
+The mask broke down and it revealed the hidden face underneath the hood.
+
+
+
+
+
+Quentyn:
+No.......
+quentyn=quentynSerious.png
+
+
+
+Behind the mask was the face of a women who Quentyn knew for Seventeen years.
+
+
+
+
+
+Quentyn:
+Mom! What are you doing here!?
+quentyn=quentynAnger2.png
+music=06 Memory of the moment.wav
+
+
+Dianna:
+I am sorry that you had to go through this Quentyn, but I did this for you Quentyn.
+
+
+
+
+Quentyn:
+Which part of any of this did I even ask for! You were just trying to sacrifice Latia for that stupid ring!
+
+
+
+
+Dianna:
+You don't understand Quentyn.
+
+
+
+
+Dianna:
+I am doing this because I want you to live happily!
+
+
+
+
+Quentyn:
+What....
+
+
+
+
+Dianna:
+Your father, I was the one who killed him.
+
+
+
+
+Quentyn:
+Bull Crap! We both know that he died in a car accident!
+
+
+
+
+Dianna:
+I was the one who covered up the fact. I killed him with my own hands using magic.
+
+
+
+
+Quentyn:
+No, that is not true.........
+
+
+
+
+Dianna:
+When your father and I married, he never knew that I was a mage.
+
+
+
+
+Dianna:
+I kept a secret from him and because I kept that secret, our lives were peaceful.
+
+
+
+
+Dianna:
+But you started to become older, your mage blood started to come into effect.
+
+
+
+
+Dianna:
+Your father initially ignored the strange incidents, but it just slowly became more chaotic and uncontrollable.
+
+
+
+
+Dianna:
+So one day, I told him that I was a mage and you were one too.
+
+
+
+
+Dianna:
+I thought he would forgive me for keeping the secret from him, but he became.......he tried to kill both of us.
+
+
+
+
+Dianna:
+When he was like that, I could only use magic to stop him, and I accidentally killed him.
+
+
+
+
+Tears welled up in my mothers eyes. It took every ounce of her courage to revisit her terrible past.
+
+
+
+
+
+Dianna:
+Look Quentyn, if we use the Ring of Solomon, you can live peacefully in the human world.
+
+
+
+
+Dianna:
+In fact, the magic world can coexist with the human world once our wish is granted by the ring.
+
+
+
+
+Quentyn:
+How could you think like that mom.....
+
+
+
+
+Quentyn:
+How could you ever hope to make the magic world to blend in with the human world!
+
+
+
+
+Quentyn:
+Even if they did coexist, mages will take advantage of the human, and peace between the two races will be
+destroyed!
+
+
+
+Dianna:
+Quentyn......
+
+
+
+
+shake
+
+
+
+
+
+Quentyn:
+What was that!
+quentyn=quentynAnger1.png
+music=07 Death Striker6666.wav
+
+
+Latia:
+Look at the ring!
+
+
+
+
+I looked at the massive amount of energy that was gathered at the top of the pillar. It seemed like whatever
+contained that thing lost its patience.
+
+
+
+
+Quentyn:
+We need to get out of here quick! All of us are gonna die if we stay here!
+
+
+
+
+Dianna:
+That is impossible. That thing won't rest until it eats a soul!
+
+
+
+
+Latia:
+Then lets try this!
+music=19 Maybe I can take you.wav
+
+
+
+slidelatia1000
+
+
+
+
+
+Holding tightly onto her pendant, Latia chanted spells while running towards the ring.
+
+
+
+
+
+Quentyn:
+No! What are you doing! Its gonna kill you!
+slidequentyn200
+
+
+
+Latia:
+This is our only hope! If this fails, then nothing else will work!
+latia=latiaAnger.png
+
+
+
+Latia continued to run until she reached approximately fifty meters away from the ring.
+
+
+
+
+
+The pendant glowed magically.
+
+
+
+
+
+The glow was so brilliant that it matched the glow of the ring.
+
+
+
+
+
+Finishing her chanting, Latia drew a sword out of thin air that was blazing with blue flame. 
+
+
+
+
+
+I could see the condensed energy flowing into her weapon; the blade grew bigger the more energy it absorbed from
+the pendant.
+
+
+
+
+This was Latia's ultimate magic, her most powerful and dangerous weapon.
+
+
+
+
+
+Latia:
+Come help me out you idiot!
+latia=latiaAnger.png
+
+
+
+Quentyn:
+Oh-ok!
+
+
+
+
+slidequentyn-1000
+
+
+
+
+
+quentynX=-500
+latiaX=1100
+slidelatia-600
+
+
+
+Latia:
+Use the strongest magic that you can summon!
+slidequentyn600
+
+
+
+Latia:
+We need to strike it at the same time to destroy the ring!
+
+
+
+
+At her command, I mustered all the magic energy that I possessed.
+
+
+
+
+
+The mass of magic energy felt heavy, like I am holding an entire arena.
+
+
+
+
+
+But I needed more..... more.....
+
+
+
+
+
+Quentyn:
+AHHHHHHHHHHHHHH!!!!!!!!!!!
+
+
+
+
+The magical energy started to materialize and it grew bigger and bigger.
+
+
+
+
+
+Each second that I gather the energy, it felt like a giant was hammering down on my body.
+
+
+
+
+
+Quentyn and Latia:
+TAAAAAAAKE THIIIIIIIIS!!!!!!!!!!!!!!!!!
+
+
+
+
+glow
+music=nothing
+
+
+
+
+background=eternalGarden.png
+latiaX=550
+quentynX=100
+dim
+
+
+Quentyn:
+Did we destroy the ring?
+quentyn=quentynSerious.png
+latia=latiaNormal.png
+
+
+Latia:
+Looks like we did it......
+
+
+
+
+Quentyn:
+Glad to hear that............
+
+
+
+
+Exhaustion overruned my body and I collapsed to the floor, and blackness overtook my vision.
+
+
+
+
+
+fadeOut
+
+
+
+
+
+background=myRoom.png
+fadeIn
+
+
+
+
+Quentyn:
+!?!?!?!?!?!?!?!?
+
+
+
+
+shake
+
+
+
+
+
+Quentyn:
+What the hell was that all about?
+
+
+
+
+Quentyn:
+Was all of that just a dream?
+
+
+
+
+Quentyn:
+But it seemed so real......
+
+
+
+
+Quentyn:
+Nah..whatever...lets just sleep.........
+
+
+
+
+fadeOut
+
+
+
+
+
+background=classroom.png
+fadeIn
+
+
+
+
+effect=dooropen.wav
+
+
+
+
+
+quentyn=quentynNormal.png
+slidequentyn800
+music=05 Talk as usual.wav
+
+
+
+Quentyn:
+YO!
+
+
+
+
+Teacher:
+You are late again Lothston! Just how many times do I have to tell you to come to school on time!?
+
+
+
+
+Teacher:
+Sit down quickly. We are starting a lesson.
+
+
+
+
+Quentyn:
+Roger that.
+
+
+
+
+slidequentyn-800
+
+
+
+
+
+Teacher:
+Alright, as I mentioned, we are doing titration today.
+ 
+
+
+
+Teacher:
+You can work with one other person and both of you must complete the lab within this class. 
+
+
+
+
+Teacher:
+You may gather your materials and start working now.
+
+
+
+
+The tranquility of the classroom was suddenly broken by the excited chatters. Each student walked around the 
+room to find potential lab partners. Gradually, I was the only one left along with one other student who was 
+sitting in a corner of the classroom.
+
+
+
+slidequentyn550
+
+
+
+
+
+Quentyn:
+Yo, wanna work together on thi-
+
+
+
+
+Quentyn:
+Wait, what .......... what the heck?
+quentyn=quentynSurprised.png
+
+
+
+As the person's face turned towards me, I was completely set aback by the familiarty of the girl in front of me. 
+music=nothing
+
+
+
+
+She wore an unconventional pendant. Her dark and thick cloth and her messy hair that was further ulgied by a
+ribbon gave her an appearance of a classical tomboyish brat.
+
+
+
+
+But what contrasted most with her appearance were her eyes. Even though they are vast and deep as the ocean, you
+can never be enchanted by those eyes because they just stare into you and make you feel like you are a total
+idiot.
+
+
+
+Teacher:
+Lothston, I forgot to mention this. She transferred to the school today-
+music=05 Talk as usual.wav
+
+
+
+Quentyn:
+Ya ya, I just got to work with her right?
+
+
+
+
+Teacher:
+Um...yes, that is right, thanks for your help. 
+
+
+
+
+Quentyn:
+Whatever, lets just get started.
+
+
+
+
+slidelatia-600
+
+
+
+
+
+Quentyn:
+I will go get the solutions, you just sit there until I come back.
+quentyn=quentynNormal.png
+
+
+
+Quentyn:
+And don't worry, I will come back just in 3 seconds.
+
+
+
+
+Transfer Girl:
+You know, sometimes, the world just feels like it is an illusion, and one day, you wake up in the morning and
+you find all everything in the world to be just your imagination.
+
+
+
+Quentyn:
+(Where the hell did that come from!?)
+
+
+
+
+Transfer Girl:
+But even if it is an illusion, there is always someone who cares about you as if you are bound by destiny.
+
+
+
+
+Quentyn:
+Uhhh.......could I ask what your name is?
+
+
+
+
+Transfer Girl:
+Oh, I forgot to introduce myself.
+
+
+
+
+Transfer Girl:
+My name is Latia, I am a mage and I am working for the Twilight Councils, and if it is ok with you, I would like 
+to be your friend.
+
+
+
+fadeOut
+
+
+
+
+
+The End
+
+
+
+
+
